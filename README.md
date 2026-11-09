@@ -1,5 +1,14 @@
 # TalentPilot — AI Job Agent
 
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-Backend-black?logo=express)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma)
+![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF?logo=vite&logoColor=white)
+![Adzuna](https://img.shields.io/badge/Adzuna-Job_API-FF6600)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 **An AI-powered UK job search and application assistant.**
 
 TalentPilot is a full-stack job-search workspace designed to help candidates discover relevant opportunities, analyse their skills, prepare tailored CV content, practise interviews, and manage job applications through a single platform.
@@ -26,6 +35,23 @@ TalentPilot currently includes:
 The Apply Now feature opens the external job application page and saves the opportunity in the application tracker. It does not automatically complete or submit employer application forms.
 
 ---
+
+## Application Screenshots
+
+### 1. Dashboard
+![TalentPilot Dashboard](screenshots/Dashboard.png)
+
+### 2. Live Job Search
+![TalentPilot Find Jobs](screenshots/Findjobs.png)
+
+### 3. Resume Studio
+![TalentPilot Resume Studio](screenshots/Resume_Studio.png)
+
+### 4. Interview Preparation
+![TalentPilot Interview Preparation](screenshots/Interview_Prep.png)
+
+### 5. Application Tracker
+![TalentPilot Applications](screenshots/Applications.png)
 
 ## Key Features
 
